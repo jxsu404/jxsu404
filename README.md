@@ -61,5 +61,5 @@ Add your public repos here once they exist, for example:
 ---
 
 <p align="center">
-  <a href="mailto:juliyosu.codes@gmail.com">📧 Email</a>
+  <a href="mailto:jvalles.cr@gmail.com">📧 Email</a>
 </p>
