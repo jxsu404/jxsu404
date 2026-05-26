@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Josuu 👋</h1>
 
 <p align="center">
-  <strong>CS Student @ TEC · Costa Rica</strong><br>
+  <strong>ATI Student @ TEC · Costa Rica</strong><br>
   Building <a href="#">@bylo</a> · Hackathon competitor · Python learner
 </p>
 
@@ -9,7 +9,7 @@
 
 ### About me
 
-- 🎓 Studying Computer Science at **Tecnológico de Costa Rica**
+- 🎓 Studying **Administración de Tecnologías de Información** at **Tecnológico de Costa Rica**
 - 🚀 Co-building **Bylo** — a startup project (currently in private beta)
 - ⚡ I compete in hackathons to push my skills under real pressure
 - 🌱 Currently deepening my fundamentals in **Python** and **backend development**
