@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>ATI Student @ TEC · Costa Rica</strong><br>
-  Building <a href="#">@bylo</a> · Hackathon competitor 
+  Building <a href="#">bylo</a> · Hackathon competitor 
 </p>
 
 ---
