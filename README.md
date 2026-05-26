@@ -46,15 +46,6 @@
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jxsu404&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsu404&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 <p align="center">
   <a href="mailto:jvalles.cr@gmail.com">📧 Email</a>
 </p>
