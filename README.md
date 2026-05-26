@@ -9,7 +9,7 @@
 
 ### About me
 
-- 🎓 Studying **Administración de Tecnologías de Información** at **Tecnológico de Costa Rica**
+- 🎓 Studying **IT Management** at **Tecnológico de Costa Rica**
 - 🚀 Co-building **Bylo** — a startup project (currently in private beta)
 - ⚡ I compete in hackathons to push my skills under real pressure
 - 🌱 Currently deepening my fundamentals in **Python** and **backend development**
