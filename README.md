@@ -42,12 +42,7 @@
 
 ### 📌 Featured
 
-<!--
-Add your public repos here once they exist, for example:
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=jxsu404&repo=REPO_NAME&theme=dark)](https://github.com/jxsu404/REPO_NAME)
--->
-
-*Public projects coming soon — was building in private, moving work into the open.*
+[![bylo-demo](https://github-readme-stats.vercel.app/api/pin/?username=jxsu404&repo=bylo-demo&theme=dark)](https://github.com/jxsu404/bylo-demo)
 
 ---
 
