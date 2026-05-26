@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Josuu 👋</h1>
+<h1 align="center">Hey, I'm Josuu </h1>
 
 <p align="center">
   <strong>ATI Student @ TEC · Costa Rica</strong><br>
@@ -34,7 +34,7 @@
 
 | Event | Project | Result |
 |-------|---------|--------|
-| [Costa Rica Tech Week 2026](https://crtechweek.com) — May 2026 | — | Participant |
+| [Costa Rica Tech Week Hackathon 2026](https://crtechweek.com) — May 2026 | — | Participant |
 
 > I use hackathons as a forcing function — real deadlines, real constraints, real shipping.
 
