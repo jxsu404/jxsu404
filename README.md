@@ -34,7 +34,7 @@
 
 | Event | Project | Result |
 |-------|---------|--------|
-| *(add your hackathons here)* | — | — |
+| [Costa Rica Tech Week 2026](https://crtechweek.com) — May 2026 | — | Participant |
 
 > I use hackathons as a forcing function — real deadlines, real constraints, real shipping.
 
