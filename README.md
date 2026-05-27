@@ -42,7 +42,7 @@
 
 ### 📌 Featured
 
-[![bylo-demo](https://github-readme-stats.vercel.app/api/pin/?username=jxsu404&repo=bylo-demo&theme=dark)](https://github.com/jxsu404/bylo-demo)
+[![bylo-demo]](https://github.com/jxsu404/bylo-demo)
 
 ---
 
