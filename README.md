@@ -42,7 +42,7 @@
 
 ### 📌 Featured
 
-[![bylo-demo]](https://github.com/jxsu404/bylo-demo)
+[bylo-demo](https://github.com/jxsu404/bylo-demo)
 
 ---
 
